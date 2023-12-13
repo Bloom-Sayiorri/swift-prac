@@ -1,5 +1,5 @@
 import Foundation
 
-func () {
+func name(parameters) -> Bool {
     print("Hello world")
 }
