@@ -1,5 +1,5 @@
-import Foundation
-
-func name(parameters) -> Bool {
-    print("Hello world")
+func greet(name: String) {
+    print("Hello \(name)")
 }
+
+greet(name: "Sam")
